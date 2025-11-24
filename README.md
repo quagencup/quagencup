@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&weight=50&pause=1000&width=435&lines=QUAGENS+PERSONAL+BIO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=FFFFFF&width=435&lines=QUAGENS+PERSONAL+BIO;DEVELOPER)](https://git.io/typing-svg)
 
 <img align="left" src="https://github.com/cachedcake/cachedcake/blob/main/images/waving-hand-sign-emoji-2048x1980-s2qlps2b.png" width="147" alt="Wave Image" /> 
 
